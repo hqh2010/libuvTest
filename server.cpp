@@ -5,7 +5,7 @@
 #include <stdio.h>
 #include <string.h>
 
-#define LISTEN_ADDRESS "/home/uthuqinghong/Desktop/mytest/666"
+#define LISTEN_ADDRESS "/home/test/Desktop/mytest/666"
 
 void on_connect_cb(uv_stream_t *, int);
 
