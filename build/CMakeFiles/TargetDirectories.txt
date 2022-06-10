@@ -1,4 +1,0 @@
-/media/uthuqinghong/EEECE1A7ECE169F3/libuv_test/build/CMakeFiles/edit_cache.dir
-/media/uthuqinghong/EEECE1A7ECE169F3/libuv_test/build/CMakeFiles/rebuild_cache.dir
-/media/uthuqinghong/EEECE1A7ECE169F3/libuv_test/build/CMakeFiles/uv_server.dir
-/media/uthuqinghong/EEECE1A7ECE169F3/libuv_test/build/CMakeFiles/uv_client.dir
