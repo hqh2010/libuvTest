@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/uv_server.dir/server.cpp.o -o uv_server  -lstdc++ -luv -lrt -lpthread -lnsl -ldl 
