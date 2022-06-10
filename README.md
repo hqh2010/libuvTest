@@ -16,19 +16,22 @@ make -j8
 
 client
 
+```bash
 test@test-pc:/media/libuv_test/build$ ./uv_client
 nread is 19, buf is 512, last char is 0
 client received ok, I got the data
 Client has received NULL BYTE, done.
 Done, uv_run returned 0
+```
 
 server
 
+```bash
 test@test-pc:/media/libuv_test/build$ ./uv_server
-
 nread is 28, buf is 512, last char is 0
 received from client:hello, server, I am client1
 Close Connection
+```
 
 # 参考文档
 
